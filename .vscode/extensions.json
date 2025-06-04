@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "charliermarsh.ruff",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy"
+    ],
+    "unwantedRecommendations": [
+        "ms-python.flake8",
+        "ms-python.pylint",
+        "ms-python.black-formatter",
+        "ms-python.isort"
+    ]
+}
